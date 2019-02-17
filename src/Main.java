@@ -17,9 +17,8 @@ public class Main {
 
         System.out.println("\n\n\n");
         Name n = new Name();
-        String retorno = n.integrates("Teste 1", false);
 
-        System.out.println(retorno == null ? "Não encontrou" : retorno);
+        System.out.println("Teste");
 
         System.out.println("teste");
 
