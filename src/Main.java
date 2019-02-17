@@ -21,6 +21,7 @@ public class Main {
         System.out.println("Teste");
 
         System.out.println("teste");
+        System.out.println("teste 2");
 
     }
 
