@@ -100,7 +100,7 @@ public class RecebeCSVRetornaClass {
 
     public static void main(String[] args) {
 
-        RecebeCSVRetornaClass r = new RecebeCSVRetornaClass("Name2");
+        RecebeCSVRetornaClass r = new RecebeCSVRetornaClass("Teste");
 
     }
 
